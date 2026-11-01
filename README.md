@@ -126,7 +126,7 @@ Store the audio files inside the `MP3` folder on the micro SD card.
 
 Watch our project demonstration:
 
-[▶️ ChromaSpeak – Video Demonstration](assets/chromaspeak-demo.mp4)
+[▶️ ChromaSpeak – Video Demonstration](video.mp4)
 
 ## 👥 Our Team
 
