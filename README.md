@@ -134,7 +134,7 @@ We developed this project as a group.
 
 <div align="center">
 
-<img src="assets/group-photo.jpg" width="500" alt="ChromaSpeak Team Photo">
+<img src="group_Image.jpeg" width="500" alt="ChromaSpeak Team Photo">
 
 ### ChromaSpeak Development Team
 
