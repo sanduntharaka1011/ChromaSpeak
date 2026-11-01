@@ -5,7 +5,7 @@
 ### Arduino-Based Smart Colour Detection and Voice Assistant
 
 <p>
-  <img src="projet.jpeg" width="350" alt="ChromaSpeak Project">
+  <img src="project.jpeg" width="350" alt="ChromaSpeak Project">
 </p>
 
 **Detect Colours • Identify Colours • Speak Colours**
